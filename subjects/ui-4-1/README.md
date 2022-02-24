@@ -1,0 +1,38 @@
+# UI IV - Ex 1 CK - Styleguide
+
+**Context:** 
+
+In this quest, you’ll have to build your own interface. 
+
+After designing your own style guide with a moodboard, colors and typography, you can use the series of consistency principles, atomic design structure, the techniques to build you own library and then a series of screens. Step by step, you’ll have built an animated high-fidelity prototype. 
+
+The very last step will be to test it on users to detect the impressions they get when they discover your app. 
+
+Once again, feel free to get as much inspiration as you need from existing design systems. Dribbble, consistency and structure are your best friends!
+
+**Instructions:** 
+
+Your agency works on a digital product to create an e-commerce app for second-hand electronic devices. You collaborate with a UX designer from your team. They have deisgned the wireframes and pass it on to you! 
+
+Design a style guide (= a moodboard with typography + examples of typography with buttons, title, description and content). 
+
+Also think about the values and spirit you want to spread through this moodboard, we’ll get back to it in Ex. 5.
+
+**Deliverables:** 
+
+- A PDF moodboard that includes:
+    - Pictures
+    - 2 to 3 main colors
+    - Examples of typography applied to graphic elements
+        - Title
+        - Description or subtitle
+        - Content
+        - Button
+        
+
+**Resources:** 
+
+- [Video tutorial on Figma](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
+- [Beginning graphic design](https://edu.gcfglobal.org/en/beginning-graphic-design/)
+- [Gareth graphic studio](https://www.youtube.com/c/GarethDavidStudio)
+- [Example of a Style Guide in UI](https://www.pinterest.pt/pin/454019206175050454/)
