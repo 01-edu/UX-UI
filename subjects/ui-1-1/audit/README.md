@@ -1,8 +1,8 @@
 #### Make sure:
 
-##### There are screenshots of the 7 pages or screens.
+###### There are screenshots of the 7 pages or screens.
 
-##### The colors match with the ones from the screens.
+###### The colors match with the ones from the screens.
 
 #### Here below is a link of example of correction key.
 
