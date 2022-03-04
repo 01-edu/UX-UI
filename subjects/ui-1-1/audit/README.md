@@ -1,3 +1,5 @@
+#### Functional
+
 #### Make sure:
 
 ###### There are screenshots of the 7 pages or screens.
