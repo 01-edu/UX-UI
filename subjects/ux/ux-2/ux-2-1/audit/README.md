@@ -1,13 +1,15 @@
-Make sure there is:
+#### Audit instructions
 
-- The main purpose of the interview
-- 1 to 3 hypotheses
-- A proper introduction that describes the interviewer and the purpose of this interview
-- 3 to 5 main topics
-- A few screening questions
-- Open-ended questions, max 10
-- A funnel process(>)
-- A conclusion with next steps and a thank you.
+##### Make sure there is:
+
+###### The main purpose of the interview
+###### 1 to 3 hypotheses
+###### A proper introduction that describes the interviewer and the purpose of this interview
+###### 3 to 5 main topics
+###### A few screening questions
+###### Open-ended questions, max 10
+###### A funnel process(>)
+###### A conclusion with next steps and a thank you.
 
 **Example:**
 

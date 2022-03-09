@@ -1,7 +1,9 @@
-Make sure there is: 
+#### Audit instructions
 
-- 1 interview guide
-- 3 scripts or an [affinity diagram](https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2017Q1/affinity-diagram3.png) from the interviews
+##### Make sure there is: 
+
+###### 1 interview guide
+###### 3 scripts or an [affinity diagram](https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2017Q1/affinity-diagram3.png) from the interviews
 
 Example of an interview guide:
 

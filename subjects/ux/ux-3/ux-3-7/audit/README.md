@@ -1,10 +1,12 @@
-Make sure: 
+#### Audit instructions
 
-- The problem statement is written with a How Might We question
-- It includes the persona's main goal or main painpoint
-- It is narrow enough
-- It is broad enough
-- There are 3 measurable KPIs ([check the SMART list](https://www.grow.com/blog/how-to-use-smart-goals-to-build-your-kpis))
+##### Make sure: 
+
+###### The problem statement is written with a How Might We question
+###### It includes the persona's main goal or main painpoint
+###### It is narrow enough
+###### It is broad enough
+###### There are 3 measurable KPIs ([check the SMART list](https://www.grow.com/blog/how-to-use-smart-goals-to-build-your-kpis))
 
 Examples of Problem Statements: 
 

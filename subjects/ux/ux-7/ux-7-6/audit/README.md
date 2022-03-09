@@ -1,15 +1,17 @@
-Make sure
+#### Audit instructions
 
-- There are between 6 and 12 different screens.
-- The mid-fidelity wireframes match the paper prototypes.
-- Paper prototypes and wireframes are in black, grey and white and do not include any style elements.
-- Each screen has the principle navigation elements (arrows, menu, call to actions)
-- One screen must follow the other
-- The navigation is fluid
-- If there are user flows or card-sorting, the criteria are written below
-- There is a document with the key learnings the students learnt from this phase
+##### Make sure
 
-Criteria
+###### There are between 6 and 12 different screens.
+###### The mid-fidelity wireframes match the paper prototypes.
+###### Paper prototypes and wireframes are in black, grey and white and do not include any style elements.
+###### Each screen has the principle navigation elements (arrows, menu, call to actions)
+###### One screen must follow the other
+###### The navigation is fluid
+###### If there are user flows or card-sorting, the criteria are written below
+###### There is a document with the key learnings the students learnt from this phase
+
+#### Criteria
 
 - User Flow
     

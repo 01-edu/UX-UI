@@ -1,15 +1,17 @@
-Make sure
+#### Audit instructions
 
-- There is at least one of the following tools
+##### Make sure
+
+###### There is at least one of the following tools
     - Persona
     - Empathy Map
     - User Journey
     - JBTD or Jobs-to-be-done (a JTBD must go along with another tool)
-- The script is completed (list of criteria below)
-- The tool is completed (list of criteria below)
-- There is a document with the key learnings the students learnt from this phase
+###### The script is completed (list of criteria below)
+###### The tool is completed (list of criteria below)
+###### There is a document with the key learnings the students learnt from this phase
 
-Criteria
+#### Criteria
 
 - Persona
     - The script is the list of insights the students uses to create the persona

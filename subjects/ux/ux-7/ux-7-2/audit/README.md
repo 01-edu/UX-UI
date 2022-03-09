@@ -1,14 +1,16 @@
-Make sure
+#### Audit instructions
 
-- There is at least one of the following tools
+##### Make sure
+
+###### There is at least one of the following tools
     - User interviews
     - Analytics
     - Competitive analysis
-- The script is completed (list of criteria below)
-- The tool is completed (list of criteria below)
-- There is a document with the key learnings the students learnt from this phase
+###### The script is completed (list of criteria below)
+###### The tool is completed (list of criteria below)
+###### There is a document with the key learnings the students learnt from this phase
 
-Criteria: 
+#### Criteria: 
 
 - User interviews
     - The script is the interview guide. Make sure there is:

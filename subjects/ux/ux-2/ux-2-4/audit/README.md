@@ -1,10 +1,12 @@
-Make sure: 
+#### Audit instructions
 
-- The problem statement is written with a How Might We question
-- It includes the user's main goal
-- It includes the user's main pain
-- It is narrow enough
-- It is broad enough
+##### Make sure: 
+
+###### The problem statement is written with a How Might We question
+###### It includes the user's main goal
+###### It includes the user's main pain
+###### It is narrow enough
+###### It is broad enough
 
 Examples: 
 
