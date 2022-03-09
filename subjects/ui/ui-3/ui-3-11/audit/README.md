@@ -1,8 +1,10 @@
-Make sure: 
+#### Audit instructions
 
-- There is a PDF document with a proper title
-- There are at least 5 signs of consistency
-- The name of each app or website is written
+##### Make sure: 
+
+###### There is a PDF document with a proper title
+###### There are at least 5 signs of consistency
+###### The name of each app or website is written
 
 Examples of signs of consistency: 
 

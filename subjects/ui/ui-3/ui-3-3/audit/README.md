@@ -1,7 +1,9 @@
-Please make sure
+#### Audit instructions
 
-- There is a PDF document
-- At least 3 different measures have been shown, like :
+##### Make sure
+
+###### There is a PDF document
+###### At least 3 different measures have been shown, like :
   - Color contrast
   - Highlighted or enlarged text when hovering
   - Links color that is different from the body text's

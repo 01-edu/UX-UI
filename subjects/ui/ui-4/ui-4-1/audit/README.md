@@ -1,9 +1,11 @@
-Make sure there is:
+#### Audit instructions
 
-- A PDF document
-- Inside it, a moodboard that includes
-  - Pictures
-  - 2 to 3 main colors
+##### Make sure there is:
+
+###### A PDF document
+###### Inside it, a moodboard that includes
+  ###### Pictures
+  ###### 2 to 3 main colors
   - Examples of typography applied to graphic elements
     - Title
     - Description or subtitle

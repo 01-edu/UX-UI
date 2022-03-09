@@ -1,7 +1,9 @@
-Make sure
+#### Audit instructions
 
-- The recommendations are consistent with the report's conclusions
-- The recommendations fit in some of these criteria:
+##### Make sure
+
+###### The recommendations are consistent with the report's conclusions
+###### The recommendations fit in some of these criteria:
     - Visibility of system status
     - Matching between the system and the real world
     - User Control and Freedom
