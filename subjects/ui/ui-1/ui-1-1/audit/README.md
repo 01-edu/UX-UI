@@ -8,4 +8,4 @@
 
 ##### Here below is a link of example of correction key
 
- [Exercise completed](https://www.figma.com/file/bQsRIJoJYK5b8WAxXFeOfv/UI-I---Ex-1?node-id=0%3A1)
+##### [Exercise completed](https://www.figma.com/file/bQsRIJoJYK5b8WAxXFeOfv/UI-I---Ex-1?node-id=0%3A1)

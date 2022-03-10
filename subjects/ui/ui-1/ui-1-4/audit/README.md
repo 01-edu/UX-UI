@@ -9,6 +9,6 @@
 ###### The document should be a PDF
 
 ##### Examples of moodboards (in addition, the moodboard should include the color codes): 
--[https://lovestylecomunicacion.com/wp-content/uploads/2017/09/A.png](https://lovestylecomunicacion.com/wp-content/uploads/2017/09/A.png) 
--[https://caseperlatesta.com/wp-content/uploads/2015/09/Moodboard23_grey_peach-1024x1024.jpg](https://caseperlatesta.com/wp-content/uploads/2015/09/Moodboard23_grey_peach-1024x1024.jpg) 
--[https://i.pinimg.com/564x/ee/9d/d6/ee9dd6fbb82b0e5b4dd2924580b765dd.jpg](https://i.pinimg.com/564x/ee/9d/d6/ee9dd6fbb82b0e5b4dd2924580b765dd.jpg)
+##### -[https://lovestylecomunicacion.com/wp-content/uploads/2017/09/A.png](https://lovestylecomunicacion.com/wp-content/uploads/2017/09/A.png) 
+##### -[https://caseperlatesta.com/wp-content/uploads/2015/09/Moodboard23_grey_peach-1024x1024.jpg](https://caseperlatesta.com/wp-content/uploads/2015/09/Moodboard23_grey_peach-1024x1024.jpg) 
+##### -[https://i.pinimg.com/564x/ee/9d/d6/ee9dd6fbb82b0e5b4dd2924580b765dd.jpg](https://i.pinimg.com/564x/ee/9d/d6/ee9dd6fbb82b0e5b4dd2924580b765dd.jpg)
