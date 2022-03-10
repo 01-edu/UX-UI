@@ -1,4 +1,4 @@
-# UX I - Ex 1 CK - User Interviews
+# UX I - Ex 1 - User Interviews
 
 **Context:** 
 
