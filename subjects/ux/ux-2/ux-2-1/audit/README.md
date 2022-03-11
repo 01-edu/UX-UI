@@ -11,54 +11,54 @@ Make sure there is:
 ###### A funnel process(>)
 ###### A conclusion with next steps and a thank you.
 
-##### **Example:**
+**Example:**
 
-##### **Objective:** 
+**Objective:** 
 
-##### Know more about what bugs people the most when they go on holidays with their friends. 
+Know more about what bugs people the most when they go on holidays with their friends. 
 
-##### **Hypotheses**: 
+**Hypotheses**: 
 
-##### - The distribution of tasks of often uneven
-##### - Transportation and shopping are the most sensitive topics
+- The distribution of tasks of often uneven
+- Transportation and shopping are the most sensitive topics
 
-##### **Script**
+**Script**
 
-##### **Introduction**
+**Introduction**
 
-##### Hello! My name is Jasmin and I am conducting user research about how people organize themselves when they are going on holidays with a group of friends. Hence I'd love to know more about your experience in that kind of situation. Can I have 15 minutes of your time for a chat? 
+Hello! My name is Jasmin and I am conducting user research about how people organize themselves when they are going on holidays with a group of friends. Hence I'd love to know more about your experience in that kind of situation. Can I have 15 minutes of your time for a chat? 
 
-##### **Screening questions:** 
+**Screening questions:** 
 
-##### - How old are you?
-##### - Where do you live?
-##### - What do you do for a living?
+- How old are you?
+- Where do you live?
+- What do you do for a living?
 
-##### **Topic 1: Tasks distribution upfront**
+**Topic 1: Tasks distribution upfront**
 
-##### - When was the last time you went on holiday with friends?
-##### - Who organized what before the stay (location, transportation, food shopping)?
-##### - How easy was it? Why?
+- When was the last time you went on holiday with friends?
+- Who organized what before the stay (location, transportation, food shopping)?
+- How easy was it? Why?
 
-##### **Topic 2: Potential tensions**
+**Topic 2: Potential tensions**
 
-##### - How well did the holiday go in terms of tasks management?
-##### - Who took care of what?
-##### - Were there any frustration due to the distribution? Why?
+- How well did the holiday go in terms of tasks management?
+- Who took care of what?
+- Were there any frustration due to the distribution? Why?
 
-##### **Topic 3: Tools**
+**Topic 3: Tools**
 
-##### - What tools did you and your friends use to set up the holidays (apps, sites, canvas, etc.)?
-##### - How helpful were they? Why?
+- What tools did you and your friends use to set up the holidays (apps, sites, canvas, etc.)?
+- How helpful were they? Why?
 
-##### **Topic 4: Next trip**
+**Topic 4: Next trip**
 
-##### - What would you like to change between your last and next trip with friends?
+- What would you like to change between your last and next trip with friends?
 
-##### **Conclusion**
+**Conclusion**
 
-##### Thank you so much for your time! This is very helpful for our research, especially on knowing what to improve to ease holiday organization management. 
+Thank you so much for your time! This is very helpful for our research, especially on knowing what to improve to ease holiday organization management. 
 
-##### Would you have anyone you know who you think is quite concerned about this topic? 
+Would you have anyone you know who you think is quite concerned about this topic? 
 
-##### We/I will prepare a questionnaire for other kinds of information. Would you be kind enough to answer it when it's ready?
+We/I will prepare a questionnaire for other kinds of information. Would you be kind enough to answer it when it's ready?

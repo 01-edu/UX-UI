@@ -12,4 +12,4 @@ Make sure:
 ###### The overlay is done with transparency
 ###### The mask was used to change the shape of the image
 
-##### [Example here](https://www.figma.com/file/qBYmuatLnhRrWMGlf5vMau/UI-I-Challenge---UI-Ex-10)
+[Example here](https://www.figma.com/file/qBYmuatLnhRrWMGlf5vMau/UI-I-Challenge---UI-Ex-10)

@@ -12,4 +12,4 @@ Make sure:
     
     ![Example](Timer1.png)
 
-##### [Example here](https://www.figma.com/file/LRgyZDBVgIq3PzjewTKI2c/UI-Challenge-I---UI-I-Ex-7)
+[Example here](https://www.figma.com/file/LRgyZDBVgIq3PzjewTKI2c/UI-Challenge-I---UI-I-Ex-7)

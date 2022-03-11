@@ -1,3 +1,5 @@
 #### Audit instructions
 
-Make sure there are 5 screens with style, colors, buttons, text that match with the initial wireframes.
+Make sure 
+
+###### There are 5 screens with style, colors, buttons, text that match with the initial wireframes.

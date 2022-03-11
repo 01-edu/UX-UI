@@ -25,4 +25,4 @@ Make sure:
     
     ![Example](FlightCK4.png)
 
-##### [Example here](https://www.figma.com/file/D6HC3Su97UQPfGIOmG0Yll/UI-Challenge-I---UI-Ex-9)
+[Example here](https://www.figma.com/file/D6HC3Su97UQPfGIOmG0Yll/UI-Challenge-I---UI-Ex-9)

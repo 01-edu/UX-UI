@@ -6,4 +6,4 @@ Make sure:
 ###### There are at least 5 examples of calendars
 ###### The name of each app or website is written
 
-##### Calendar examples: [https://uicookies.com/html-calendar/](https://uicookies.com/html-calendar/)
+Calendar examples: [https://uicookies.com/html-calendar/](https://uicookies.com/html-calendar/)

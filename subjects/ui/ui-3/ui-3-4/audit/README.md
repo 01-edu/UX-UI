@@ -12,6 +12,6 @@ Make sure
   ##### - Error states
   ##### - etc.
 
-##### Example of presentation and explanation:
+Example of presentation and explanation:
 
-##### -[https://www.convinceandconvert.com/digital-marketing/accessible-website-examples/](https://www.convinceandconvert.com/digital-marketing/accessible-website-examples/)
+[https://www.convinceandconvert.com/digital-marketing/accessible-website-examples/](https://www.convinceandconvert.com/digital-marketing/accessible-website-examples/)

@@ -1,5 +1,5 @@
 #### Audit instructions
 
-Make sure : 
+Make sure: 
 
 ###### The chart is complete

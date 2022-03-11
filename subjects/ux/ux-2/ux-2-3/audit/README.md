@@ -1,6 +1,6 @@
 #### Audit instructions
 
-Make sure there is: 
+Make sure there are: 
 
 ###### Multiple sticky notes that match with transcription
 ###### The sticky notes are gathered in clusters

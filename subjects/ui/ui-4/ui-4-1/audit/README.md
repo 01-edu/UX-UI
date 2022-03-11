@@ -12,4 +12,4 @@ Make sure there is:
     ##### - Content
     ##### - Button
 
-##### -[Example of a Style Guide in UI](https://www.pinterest.pt/pin/454019206175050454/)
+[Example of a Style Guide in UI](https://www.pinterest.pt/pin/454019206175050454/)
