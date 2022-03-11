@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure: 
+Make sure: 
 
 ###### The screen designed matches the image
 ###### All layers have a name and belong to a group of graphic elements

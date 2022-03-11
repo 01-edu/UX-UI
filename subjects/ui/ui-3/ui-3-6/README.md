@@ -1,4 +1,4 @@
-# UI III - Ex 6 CK - Toggle buttons
+# UI III - Ex 6 - Toggle buttons
 
 **Context:** 
 

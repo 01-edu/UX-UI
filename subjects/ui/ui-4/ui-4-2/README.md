@@ -1,4 +1,4 @@
-# UI IV - Ex 2 CK - Design system library
+# UI IV - Ex 2 - Design system library
 
 **Context:** 
 

@@ -1,4 +1,4 @@
-# UI IV - Ex 1 CK - Styleguide
+# UI IV - Ex 1 - Styleguide
 
 **Context:** 
 

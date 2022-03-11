@@ -1,4 +1,4 @@
-# UI II - Ex 5 CK - Library for a dating app
+# UI II - Ex 5 - Library for a dating app
 
 **Context:** 
 

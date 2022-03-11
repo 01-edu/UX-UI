@@ -2,7 +2,7 @@
 
 ##### Open the Figma file and inspect it. 
 
-##### Make sure: 
+Make sure: 
 
 ###### There are two half circles as this one.
     

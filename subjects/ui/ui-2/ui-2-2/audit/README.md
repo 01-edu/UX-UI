@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure
+Make sure
 
 ###### There is a PDF document
 ###### The layers are indicated with numbers

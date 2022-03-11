@@ -5,7 +5,7 @@
 
 Here are examples of combinations on websites. 
 
-##### Make sure :
+Make sure :
 
 ###### The websites or apps chosen by the students match with a correct color wheel combinations
 ###### There are 3 websites or apps per color palette combination.

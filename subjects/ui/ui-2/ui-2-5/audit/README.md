@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure there is: 
+Make sure there is: 
 
 ###### A moodboard for a dating app with:
     ###### Pictures

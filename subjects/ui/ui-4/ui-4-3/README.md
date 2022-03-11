@@ -1,4 +1,4 @@
-# UI IV - Ex 3 CK - Design screens
+# UI IV - Ex 3 - Design screens
 
 **Context:** 
 

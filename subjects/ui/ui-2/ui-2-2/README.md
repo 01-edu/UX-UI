@@ -1,4 +1,4 @@
-# UI II - Ex 2 CK - Material Design
+# UI II - Ex 2 - Material Design
 
 **Context:** 
 

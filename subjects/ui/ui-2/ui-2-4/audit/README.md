@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure there is: 
+Make sure there is: 
 
 ###### A moodboard for a climbing group with:
     ###### Pictures

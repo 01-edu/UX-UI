@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure: 
+Make sure: 
 
 ###### There is a PDF document with a proper title
 ###### There are at least 5 examples of micro-interactions or animations

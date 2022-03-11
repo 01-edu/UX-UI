@@ -1,4 +1,4 @@
-# UI I - Ex 7 CK - UI Challenge - Timer
+# UI I - Ex 7 - UI Challenge - Timer
 
 **Context:** 
 

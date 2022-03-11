@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure there are:
+Make sure there are:
 
 ###### A desirability testing board with 25+ different adjectives
 ###### Pictures from the desirability test

@@ -1,4 +1,4 @@
-##### Make sure:
+Make sure:
 
 ###### There are at least five combinations of buttons, menus or call to actions.
 ###### The multi state buttons are gathered in groups

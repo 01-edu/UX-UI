@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure there is:
+Make sure there is:
 
 ###### A PDF document
 ###### Inside it, a moodboard that includes

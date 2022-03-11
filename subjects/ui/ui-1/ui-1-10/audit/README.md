@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure
+Make sure
 
 ###### The screen designed matches the image
 ###### There are 2 pages: one for the screen and one with the symbols

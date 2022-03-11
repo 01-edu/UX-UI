@@ -1,4 +1,4 @@
-# UI IV - Ex 4 CK - Animation
+# UI IV - Ex 4 - Animation
 
 **Context:** 
 

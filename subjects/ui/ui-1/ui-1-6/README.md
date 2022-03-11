@@ -1,4 +1,4 @@
-# UI I - Ex 6 CK - Typography Moodboard
+# UI I - Ex 6 - Typography Moodboard
 
 **Context:** 
 

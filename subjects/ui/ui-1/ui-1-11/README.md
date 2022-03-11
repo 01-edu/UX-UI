@@ -1,4 +1,4 @@
-# UI I - Ex 11 CK - UI Challenge - Bitcoin Dashboard
+# UI I - Ex 11 - UI Challenge - Bitcoin Dashboard
 
 **Context:** 
 

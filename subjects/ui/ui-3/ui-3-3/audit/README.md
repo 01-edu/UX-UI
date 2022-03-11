@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure
+Make sure
 
 ###### There is a PDF document
 ###### At least 3 different measures have been shown, like :

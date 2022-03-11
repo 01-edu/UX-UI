@@ -1,4 +1,4 @@
-# UI I - Ex 2 CK - Color codes
+# UI I - Ex 2 - Color codes
 
 **Context:** 
 

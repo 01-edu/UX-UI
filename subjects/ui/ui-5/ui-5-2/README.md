@@ -1,4 +1,4 @@
-# UI V - Ex 2 CK - Recommendations
+# UI V - Ex 2 - Recommendations
 
 **Context:** 
 

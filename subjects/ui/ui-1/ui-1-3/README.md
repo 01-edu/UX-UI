@@ -1,4 +1,4 @@
-# UI I - Ex 3 CK - Color combinations
+# UI I - Ex 3 - Color combinations
 
 **Context:** 
 

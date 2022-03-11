@@ -1,4 +1,4 @@
-# UI III - Ex 9 CK - Time pickers
+# UI III - Ex 9 - Time pickers
 
 **Context:** 
 

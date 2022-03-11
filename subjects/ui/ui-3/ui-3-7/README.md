@@ -1,4 +1,4 @@
-# UI III - Ex 7 CK - Radio Buttons
+# UI III - Ex 7 - Radio Buttons
 
 **Context:** 
 

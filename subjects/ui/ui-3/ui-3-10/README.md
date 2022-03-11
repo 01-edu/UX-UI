@@ -1,4 +1,4 @@
-# UI III - Ex 10 CK - Micro-interactions
+# UI III - Ex 10 - Micro-interactions
 
 **Context:** 
 

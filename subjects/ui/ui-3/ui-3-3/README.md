@@ -1,4 +1,4 @@
-# UI III - Ex 3 CK - Accessibility (website)
+# UI III - Ex 3 - Accessibility (website)
 
 **Context:** 
 

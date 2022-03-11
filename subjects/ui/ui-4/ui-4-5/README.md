@@ -1,4 +1,4 @@
-# UI IV - Ex 5 CK - Desirability testing
+# UI IV - Ex 5 - Desirability testing
 
 **Context:** 
 

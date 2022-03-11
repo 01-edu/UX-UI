@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure that:
+Make sure that:
 
 ###### There are screenshots of the 7 pages or screens?
 

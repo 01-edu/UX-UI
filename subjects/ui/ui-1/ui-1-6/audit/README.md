@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure: 
+Make sure: 
 
 ###### There are 4 different fonts
 ###### There is a caption next to the font to describe what is it

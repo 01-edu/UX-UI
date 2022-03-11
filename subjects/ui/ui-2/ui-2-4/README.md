@@ -1,4 +1,4 @@
-# UI II - Ex 4 CK - Library for climbing addicts
+# UI II - Ex 4 - Library for climbing addicts
 
 **Context:** 
 

@@ -1,4 +1,4 @@
-# UI I - Ex 10 CK - UI Challenge - Spotify
+# UI I - Ex 10 - UI Challenge - Spotify
 
 **Context:** 
 

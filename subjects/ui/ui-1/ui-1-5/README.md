@@ -1,4 +1,4 @@
-# UI I - Ex 5 CK - Typography
+# UI I - Ex 5 - Typography
 
 **Context:** 
 

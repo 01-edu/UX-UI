@@ -1,4 +1,4 @@
-# UI III - Ex 11 CK - Consistency
+# UI III - Ex 11 - Consistency
 
 **Context:** 
 

@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure there is: 
+Make sure there is: 
 
 ###### A library including:
     ###### At least graphic design 30 elements

@@ -1,4 +1,4 @@
-# UI II - Ex 1 CK - Browsing
+# UI II - Ex 1 - Browsing
 
 **Context:** 
 

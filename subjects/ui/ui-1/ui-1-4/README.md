@@ -1,4 +1,4 @@
-# UI I - Ex 4 CK - Moodboard
+# UI I - Ex 4 - Moodboard
 
 **Context:** 
 

@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure:
+Make sure:
 
 ###### There is one PDF or one page per image
 ###### There are colored lines on top of the images

@@ -1,4 +1,4 @@
-# UI I - Ex 8 CK - UI Challenge - Watches
+# UI I - Ex 8 - UI Challenge - Watches
 
 **Context:** 
 

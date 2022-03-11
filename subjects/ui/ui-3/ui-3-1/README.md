@@ -1,4 +1,4 @@
-# UI III - Ex 1 CK - Grids
+# UI III - Ex 1 - Grids
 
 **Context:** 
 

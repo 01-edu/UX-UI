@@ -1,4 +1,4 @@
-# UI III - Ex 8 CK - Calendars
+# UI III - Ex 8 - Calendars
 
 **Context:** 
 

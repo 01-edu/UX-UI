@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure
+Make sure
 
 ###### There is a PDF document
 ###### There are at least 10 elements from easyJet

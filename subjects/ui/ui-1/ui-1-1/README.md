@@ -1,4 +1,4 @@
-# UI I - Ex 1 CK - Find the colors
+# UI I - Ex 1 - Find the colors
 
 **Context:** 
 

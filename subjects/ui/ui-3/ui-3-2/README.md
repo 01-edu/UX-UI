@@ -1,4 +1,4 @@
-# UI III - Ex 2 CK - Multi state
+# UI III - Ex 2 - Multi state
 
 **Context:** 
 

@@ -1,4 +1,4 @@
-# UI I - Ex 9 CK - UI Challenge - Flight
+# UI I - Ex 9 - UI Challenge - Flight
 
 **Context:** 
 

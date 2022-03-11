@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure the following typographies are found:
+Make sure the following typographies are found:
 
 
 ##### -[https://unric.org/no](https://unric.org/no) 

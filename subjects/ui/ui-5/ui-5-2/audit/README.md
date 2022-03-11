@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure
+Make sure
 
 ###### The recommendations are consistent with the report's conclusions
 ###### The recommendations fit in some of these criteria:

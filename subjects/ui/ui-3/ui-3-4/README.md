@@ -1,4 +1,4 @@
-# UI III - Ex 4 CK - Accessibility (App)
+# UI III - Ex 4 - Accessibility (App)
 
 **Context:** 
 
