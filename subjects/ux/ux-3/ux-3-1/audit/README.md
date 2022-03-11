@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure: 
+Make sure: 
 
 ###### There is an introduction
 ###### There is a [competitive landscape](https://venngage-wordpress.s3.amazonaws.com/uploads/2019/03/g2crowd-grid.png)

@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure:
+Make sure:
 
 ###### There is a starting screen
 ###### There is an ending screen

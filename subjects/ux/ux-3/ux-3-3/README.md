@@ -1,4 +1,4 @@
-# UX III - Ex 3 CK - Broadcast strategy
+# UX III - Ex 3 - Broadcast strategy
 
 **Context:** 
 

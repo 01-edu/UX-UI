@@ -1,4 +1,4 @@
-# UX I - Ex 4 CK - User Journey
+# UX I - Ex 4 - User Journey
 
 **Context:** 
 

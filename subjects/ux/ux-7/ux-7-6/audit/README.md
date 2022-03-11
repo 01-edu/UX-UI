@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure
+Make sure
 
 ###### There are between 6 and 12 different screens.
 ###### The mid-fidelity wireframes match the paper prototypes.
@@ -15,7 +15,7 @@
 
 ##### - User Flow
     
-    ##### Make sure for each flow: 
+    Make sure for each flow: 
     
     ##### - The user has a specific goal
     ##### - There is a starting point and and ending point - which is the goal of the user
@@ -24,7 +24,7 @@
     
 ##### - Card sorting
     
-    ##### Make sure
+    Make sure
     
     ##### - There is a script including the research goals.
     ##### - The research goals must be close to "rearrange the content"

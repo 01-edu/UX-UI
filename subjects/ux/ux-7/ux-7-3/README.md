@@ -1,4 +1,4 @@
-# UX VII - Ex 3 CK - Define
+# UX VII - Ex 3 - Define
 
 **Context:** 
 

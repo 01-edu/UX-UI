@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure 
+Make sure 
 
 ###### There are at least 5 insights among this non-exhaustive list: 
 

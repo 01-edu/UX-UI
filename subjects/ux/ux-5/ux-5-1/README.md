@@ -1,4 +1,4 @@
-# UX V - Ex 1 CK - Heuristics
+# UX V - Ex 1 - Heuristics
 
 **Context:** 
 

@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure
+Make sure
 
 ###### The V1 and V2 versions are different
 ###### The V2 version includes the ideas from Ex 4, 5 or 6 (depending on the prototype you used)

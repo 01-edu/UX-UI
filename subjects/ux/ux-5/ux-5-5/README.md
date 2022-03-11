@@ -1,4 +1,4 @@
-# UX V - Ex 5 CK - Wireframes
+# UX V - Ex 5 - Wireframes
 
 **Context:** 
 

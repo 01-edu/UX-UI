@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure
+Make sure
 
 ###### In the script
     ###### The scope is clear: What are we testing?

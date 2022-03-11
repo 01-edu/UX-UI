@@ -1,4 +1,4 @@
-# UX II - Ex 3 CK - Affinity diagram & Empathy map
+# UX II - Ex 3 - Affinity diagram & Empathy map
 
 **Context:** 
 

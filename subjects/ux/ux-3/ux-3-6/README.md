@@ -1,4 +1,4 @@
-# UX III - Ex 6 CK - User Journey
+# UX III - Ex 6 - User Journey
 
 **Context:** 
 

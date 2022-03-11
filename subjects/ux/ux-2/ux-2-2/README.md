@@ -1,4 +1,4 @@
-# UX II - Ex 2 CK - Run interviews
+# UX II - Ex 2 - Run interviews
 
 **Context:** 
 

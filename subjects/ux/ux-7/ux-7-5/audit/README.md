@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure there is: 
+Make sure there is: 
 
 ###### A script of the ideation workshop in which there is:
     ###### The main objective

@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure for each flow: 
+Make sure for each flow: 
 
 ###### The user has a specific goal
 ###### There is a starting point and and ending point 

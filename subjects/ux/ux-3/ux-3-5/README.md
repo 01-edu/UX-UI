@@ -1,4 +1,4 @@
-# UX III - Ex 5 CK - Personas
+# UX III - Ex 5 - Personas
 
 **Context:** 
 

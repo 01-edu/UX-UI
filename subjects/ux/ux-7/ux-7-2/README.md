@@ -1,4 +1,4 @@
-# UX VII - Ex 2 CK - Empathy
+# UX VII - Ex 2 - Empathy
 
 **Context:** 
 

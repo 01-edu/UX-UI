@@ -1,4 +1,4 @@
-# UX I - Ex 2 CK - Analytics
+# UX I - Ex 2 - Analytics
 
 **Context:** 
 

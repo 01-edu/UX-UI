@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure there is:
+Make sure there is:
 
 ###### The main purpose of the interview
 ###### 1 to 3 hypotheses

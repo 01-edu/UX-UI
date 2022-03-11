@@ -1,4 +1,4 @@
-# UX II - EX 1 CK - Interview guide
+# UX II - EX 1 - Interview guide
 
 **Context:** 
 

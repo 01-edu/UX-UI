@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure: 
+Make sure: 
 
 ###### The problem statement is written with a How Might We question
 ###### It includes the persona's main goal or main painpoint

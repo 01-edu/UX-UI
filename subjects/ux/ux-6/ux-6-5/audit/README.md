@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure: 
+Make sure: 
 
 ###### There is a protocol
 ###### The test goals are written and explicit

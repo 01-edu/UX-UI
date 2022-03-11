@@ -1,4 +1,4 @@
-# UX V - Ex 3 CK - JTBD
+# UX V - Ex 3 - JTBD
 
 **Context:** 
 

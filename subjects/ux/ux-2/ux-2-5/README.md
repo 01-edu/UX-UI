@@ -1,4 +1,4 @@
-# UX II - Ex 5 CK - Ideation
+# UX II - Ex 5 - Ideation
 
 **Context:** 
 

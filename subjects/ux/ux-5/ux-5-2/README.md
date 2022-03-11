@@ -1,4 +1,4 @@
-# UX V - Ex 2 CK - Site map
+# UX V - Ex 2 - Site map
 
 **Context:** 
 

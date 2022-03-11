@@ -1,4 +1,4 @@
-# UX II - Ex 6 CK - User flow
+# UX II - Ex 6 - User flow
 
 **Context:** 
 

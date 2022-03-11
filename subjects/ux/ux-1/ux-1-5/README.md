@@ -1,4 +1,4 @@
-# UX I - Ex 5 CK - Problem Statement
+# UX I - Ex 5 - Problem Statement
 
 **Context:** 
 

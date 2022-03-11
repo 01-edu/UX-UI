@@ -7,7 +7,7 @@
     ###### Since 3 out of 4 are men, the persona should be a man
     ###### The age should be the average of the users: 32 (Joe is 30, Nathan is 39, Guillaume is 30 and Anaelle is 29)
 
-##### Make sure:
+Make sure:
 
 ###### The persona has a first name that is NOT Joe, Nathan, Guillaume, or Anaelle.
 ###### There is a picture.

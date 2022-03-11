@@ -1,4 +1,4 @@
-# UX III - Ex 1 CK - Competitive Analysis
+# UX III - Ex 1 - Competitive Analysis
 
 **Context:** 
 

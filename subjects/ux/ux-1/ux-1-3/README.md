@@ -1,4 +1,4 @@
-# UX I - Ex 3 CK - Personas
+# UX I - Ex 3 - Personas
 
 **Context:** 
 

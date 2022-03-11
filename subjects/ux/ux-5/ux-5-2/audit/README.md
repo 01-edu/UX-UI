@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure: 
+Make sure: 
 
 ###### There is a PDF document
 ###### The document has a title

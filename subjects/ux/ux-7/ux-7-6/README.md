@@ -1,4 +1,4 @@
-# UX VII - Ex 6 CK - Prototype
+# UX VII - Ex 6 - Prototype
 
 **Context:** 
 

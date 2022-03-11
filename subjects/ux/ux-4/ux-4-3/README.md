@@ -1,4 +1,4 @@
-# UX IV - Ex 3 CK - Ideation
+# UX IV - Ex 3 - Ideation
 
 **Context:** 
 

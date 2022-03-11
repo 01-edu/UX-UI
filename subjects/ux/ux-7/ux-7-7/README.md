@@ -1,4 +1,4 @@
-# UX VII - Ex 7 CK - Test
+# UX VII - Ex 7 - Test
 
 **Context:** 
 

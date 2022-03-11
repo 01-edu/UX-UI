@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure
+Make sure
 
 ###### The sentence is complete
 ###### The "When" part involves a visit on the website

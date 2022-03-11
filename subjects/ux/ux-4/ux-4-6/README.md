@@ -1,4 +1,4 @@
-# UX IV - Ex 6 CK - Animation
+# UX IV - Ex 6 - Animation
 
 **Context:** 
 

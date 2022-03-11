@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure
+Make sure
 
 ###### The script is consistent
 ###### There is at least one picture of each of the workshops

@@ -1,4 +1,4 @@
-# UX VII - Ex 1 CK - UX Strategy
+# UX VII - Ex 1 - UX Strategy
 
 **Context:** 
 

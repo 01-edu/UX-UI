@@ -1,4 +1,4 @@
-# UX III - Ex 7 CK - Problem Statement
+# UX III - Ex 7 - Problem Statement
 
 **Context:** 
 

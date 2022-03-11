@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure:
+Make sure:
 
 ###### There is a timeline
 ###### The timeline shows the journey of your persona

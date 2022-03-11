@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure
+Make sure
 
 ###### There are pictures of the ongoing tests
 ###### There are conclusions from each test

@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure:
+Make sure:
 
 ###### There are between 6 and 12 different screens
 ###### The screens match the main steps of the user flow

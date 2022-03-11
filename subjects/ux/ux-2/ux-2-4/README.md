@@ -1,4 +1,4 @@
-# UX II - Ex 4 CK - Problem statement
+# UX II - Ex 4 - Problem statement
 
 **Context:** 
 

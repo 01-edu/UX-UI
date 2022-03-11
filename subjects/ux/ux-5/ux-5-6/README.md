@@ -1,4 +1,4 @@
-# UX V - Ex 6 CK - Test protocol
+# UX V - Ex 6 - Test protocol
 
 **Context:** 
 

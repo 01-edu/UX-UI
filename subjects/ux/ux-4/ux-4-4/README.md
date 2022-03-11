@@ -1,4 +1,4 @@
-# UX IV - Ex 4 CK - User Flow
+# UX IV - Ex 4 - User Flow
 
 **Context:** 
 

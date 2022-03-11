@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure:
+Make sure:
 
 ###### There are between 6 and 12 steps
 ###### The solution matches the idea chosen in Ex 6

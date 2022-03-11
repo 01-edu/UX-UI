@@ -1,4 +1,4 @@
-# UX III - EX 2 CK - Surveys
+# UX III - EX 2 - Surveys
 
 **Context:** 
 

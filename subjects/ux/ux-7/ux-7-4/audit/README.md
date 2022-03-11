@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure 
+Make sure 
 
 ###### There is one question that stands as a problem statement.
 ###### There are between 1 and 3 KPIs ([check the SMART list](https://www.grow.com/blog/how-to-use-smart-goals-to-build-your-kpis)) that will help you measure the success of the upcoming solution

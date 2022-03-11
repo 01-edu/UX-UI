@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure: 
+Make sure: 
 
 ###### There is a test script
 ###### The test script includes a greeting and onboarding paragraph

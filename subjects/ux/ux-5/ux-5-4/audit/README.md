@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure
+Make sure
 
 ###### There is a script including the research goals.
 ###### The research goals must be close to "rearrange the content"

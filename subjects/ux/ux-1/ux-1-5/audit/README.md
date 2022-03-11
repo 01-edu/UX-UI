@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure the following problem statements are commented according to the following: 
+Make sure the following problem statements are commented according to the following: 
 
 ##### - How might we help Pierre measure and prepare his hydration before a race?
     ###### Appropriate —> The problem statement is narrow enough to be specific for one painpoint, and broad enough to let creativity suggest many options. Also, it takes into accounts some of the key insights from the previous phases.

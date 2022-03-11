@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure
+Make sure
 
 ###### There is a time frame
 ###### In Empathy or User Research, there is at least one tool among this list:

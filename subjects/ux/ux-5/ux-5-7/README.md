@@ -1,4 +1,4 @@
-# UX V - Ex 7 CK - Run 5 tests
+# UX V - Ex 7 - Run 5 tests
 
 **Context:** 
 

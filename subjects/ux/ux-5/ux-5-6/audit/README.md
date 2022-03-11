@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure:
+Make sure:
 
 ###### The scope is clear: What are we testing?
 ###### There are either 5 names or a strategy to find users

@@ -1,4 +1,4 @@
-# UX VII - Ex 4 CK - Problem Statement
+# UX VII - Ex 4 - Problem Statement
 
 **Context:** 
 

@@ -1,4 +1,4 @@
-# UX V - Ex 4 CK - Card sorting
+# UX V - Ex 4 - Card sorting
 
 **Context:** 
 

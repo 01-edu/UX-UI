@@ -1,6 +1,6 @@
 #### Audit instructions
 
-##### Make sure:
+Make sure:
 
 ###### There is a framework
 ###### The persona has a name (consistent with the people interviewed)

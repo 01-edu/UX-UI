@@ -1,4 +1,4 @@
-# UX IV - Ex 5 CK - Prototyping
+# UX IV - Ex 5 - Prototyping
 
 **Context:** 
 
