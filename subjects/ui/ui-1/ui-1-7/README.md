@@ -7,7 +7,7 @@ This first UI quest is a series of exercises to practice colors, moodboards, typ
 **Instructions:** 
 
 Copy this image on Figma. 
-![Timer](timer.png)
+![Timer](Timer.png)
 
 
 **Deliverable:** 
