@@ -10,7 +10,7 @@ This exercise is to be made individually.
 
 **Deliverable:** 
 
-- An animated prototype
+- An animated Mid-Fi prototype on Figma
 
 **Resources:** 
 

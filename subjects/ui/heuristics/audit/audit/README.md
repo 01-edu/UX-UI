@@ -1,6 +1,5 @@
-#### Audit instructions
+#### Audit
 
-Make sure: 
-
-###### The chart is complete
-###### The 5 steps are included in the report
+###### Is there a chart? 
+###### Is the chart complete?
+###### Are the 5 steps included in the report?

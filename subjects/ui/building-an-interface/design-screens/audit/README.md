@@ -1,5 +1,5 @@
-#### Audit instructions
+#### Audit
 
-Make sure 
-
-###### There are 5 screens with style, colors, buttons, text that match with the initial wireframes.
+###### Is there a Figma file?
+###### Are there 5 screens? 
+###### Do style, colors, buttons, text match with the initial wireframes?

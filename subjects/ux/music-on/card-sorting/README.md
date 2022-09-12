@@ -25,7 +25,7 @@ To do so:
 
 **Deliverables:** 
 
-- A card sorting workshop script with the research goals
+- A card sorting workshop script with the research goals (PDF document)
 - Pictures of the ongoing workshop
 - A document to show the new content organization (it can be a picture of the board with sticky notes or the digital version).
 

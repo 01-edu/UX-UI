@@ -1,8 +1,6 @@
-#### Audit instructions
+#### Audit
 
-Make sure: 
-
-###### There is a protocol
-###### The test goals are written and explicit
-###### There are pictures of the ongoing test
-###### There is a document with 3 ideas to improve the prototype
+###### Is there a PDF document with a protocol?
+###### Are the test goals written and explicit?
+###### Are there pictures of the ongoing test?
+###### Is there a PDF document with 3 ideas to improve the prototype?

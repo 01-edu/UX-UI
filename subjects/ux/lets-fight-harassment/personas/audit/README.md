@@ -1,10 +1,9 @@
-#### Audit instructions
+#### Audit
 
-Make sure:
-
-###### There is a framework
-###### The persona has a name (consistent with the people interviewed)
-###### There are demographics
-###### The persona's pain points are included
-###### The persona's drivers are included
-###### The persona's behaviors are included (hobbies, technology, whatever seems relevant)
+###### Is there a PDF document ? 
+###### Is there a framework?
+###### Does the persona have a name (consistent with the people interviewed)?
+###### Is there demographic data?
+###### Are the persona's pain points included?
+###### Are the persona's drivers included?
+###### Are the persona's behaviors included (hobbies, technology, whatever seems relevant)?

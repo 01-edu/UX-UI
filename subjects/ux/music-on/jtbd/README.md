@@ -16,7 +16,7 @@ And remember: You are not your user!
 
 **Deliverable:** 
 
-- A complete Jobs-to-Be-Done
+- A complete Jobs-to-Be-Done on a PDF document
     - "When ______, I want to _____ So I can _____"
 
 **Resources:** 

@@ -1,12 +1,10 @@
-#### Audit instructions
+#### Audit
 
-Make sure: 
-
-###### There is a document
-    ###### The ideas are structured
-    ###### The target is defined in terms of profile, age rank, situations, location
-    ###### At least 8 different channels (and links) with social networks, pages, groups, forums, influencers, etc. included
-    ###### There are at least two different messages
-    ###### There are at least 3 rounds of campaigns as plans A, B and C
-###### There are at least 40 answers
-###### There is a feedback document including the main takeaways from this experience
+###### Is there a PDF document?
+###### Are the ideas structured?
+###### Is the target defined in terms of profile, age rank, situations, location?
+###### Are there at least 8 different channels (and links) with social networks, pages, groups, forums, influencers, etc. included?
+###### Are there at least two different messages?
+###### Are there at least 3 rounds of campaigns as plans A, B and C?
+###### Are there at least 40 answers?
+###### Is there a feedback document including the main takeaways from this experience?

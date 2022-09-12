@@ -4,15 +4,15 @@
 
 To find creative solutions to your problem statement, use one of these techniques in groups of 5 people, twice.
 
-During the first time, one is the facilitator and the other is the time-keeper and in charge of logistics. Switch roles for the second run.
+Gather in groups of 2. During the first run, one is the facilitator and the other is the time-keeper and in charge of logistics. Switch roles for the second run.
 
 Get as many ideas as possible within a defined timeframe, and narrow them down to 3 main ideas with a voting process (in pair or in group). Take pictures!
 
 **Deliverables:**
 
-- Script including all the steps + logistics
-- Pictures of the session
-- 3 ideas from the 2 workshops.
+- A PDF document that includes the script with all the steps + logistics
+- Pictures of the 2 sessions
+- A PDF document with 3 ideas that came out the 2 workshops.
 
 **Tips:**
 
@@ -21,6 +21,7 @@ Ideation techniques:
 - [Worst Idea](https://www.interaction-design.org/literature/article/learn-how-to-use-the-best-ideation-methods-worst-possible-idea)
 - [Brainwriting](https://business.tutsplus.com/tutorials/how-to-use-brainwriting-for-rapid-idea-generation--cms-26451)
 - [Mash Up](https://cdn.shopify.com/s/files/1/0259/7876/5396/files/IDEO_U_Ideation_Method_Mash-Up.pdf?33258)
+- As to the script, you can refer to "Athlete, keep hydrated" Quest, Ideation Exercise.
 
 **Resources:** 
 

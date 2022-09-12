@@ -6,7 +6,7 @@ Animate your 5 screens on Figma. Think about multistate!!
 
 **Deliverable:** 
 
-- An animated high-fidelity prototype
+- An animated high-fidelity prototype on Figma
 
 **Resources:** 
 

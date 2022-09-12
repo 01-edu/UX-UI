@@ -8,7 +8,7 @@ Even though a proper survey requires at least 100 answers, for this exercise we 
 
 **Deliverables:** 
 
-- A document gathering your strategy. Please include:
+- A PDF document gathering your strategy. Please include:
     - Who you are targeting (remember, you can focus on your hometown as well as the whole planet)
     - A few ideas about how to reach them
     - The channels you intend to use - be specific and include the links to the groups, forums, pages, account you plan to reach

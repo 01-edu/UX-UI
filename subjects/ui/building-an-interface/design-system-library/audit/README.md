@@ -1,10 +1,8 @@
-#### Audit instructions
+#### Audit
 
-Make sure there is: 
-
-###### A library including:
-    ###### At least graphic design 30 elements
-    ###### At least 5 atoms
-    ###### At least 5 molecules
-    ###### At least 5 organisms
-    ###### At least 10 multistate elements
+###### Is there a PDF library?
+###### Are there at least graphic design 30 elements
+###### Are there at least 5 atoms?
+###### Are there at least 5 molecules?
+###### Are there at least 5 organisms?
+###### Are there at least 10 multistate elements?

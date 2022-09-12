@@ -14,7 +14,7 @@ Write a report with the conclusion you made out of this iteration loop.
 
 - Pictures of the new test
 - A report with your conclusions, your impressions and your key learnings from this iteration (PDF document out of Microsoft Word, Pages, Google Docs or any word-processing software)
-- Comparison between V1 and V2 of the prototype
+- Comparison between V1 and V2 of the prototype in the report
 
 **Tips:** 
 

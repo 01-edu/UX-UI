@@ -1,9 +1,5 @@
-#### Audit instructions
+#### Audit
 
-Make sure: 
-
-###### There is a PDF document with a proper title
-###### There are at least 5 examples of calendars
-###### The name of each app or website is written
-
-Calendar examples: [https://uicookies.com/html-calendar/](https://uicookies.com/html-calendar/)
+###### Is there is a PDF document with a proper title?
+###### Are there at least 5 examples of calendars?
+###### Is the name of each app or website written?

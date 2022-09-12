@@ -1,7 +1,6 @@
-#### Audit instructions
+#### Audit
 
-Make sure: 
-
-###### There are between 6 and 12 screens
-###### The sequence of links is logical
-###### The screens must be in black and white
+###### Is there a Figma file? 
+###### Are there between 6 and 12 screens?
+###### Is the sequence of links logical?
+###### Are the screens in black and white?

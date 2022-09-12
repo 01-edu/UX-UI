@@ -10,6 +10,7 @@ Based on the new taxonomy (content categorization), show the different paths a u
 
 - Drawing a user journey first might be helpful before rushing into wireframes
 - Drawing paper prototypes before going digital might save you some time ;)
+- Several paths are encouraged
 
 Vocabulary 
 
@@ -28,8 +29,7 @@ Vocabulary
 
 **Deliverables:**
 
-- Wireframes (6 to 12 screens) from the home page to the product page
-- Several paths are encouraged
+- Wireframes (6 to 12 screens) from the home page to the product page, on Figma
 
 **Resources:**
 

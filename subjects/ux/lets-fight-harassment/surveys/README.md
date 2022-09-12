@@ -10,7 +10,7 @@ To be used in proper studies and get viable results, a form should gather at lea
 
 **Deliverables:** 
 
-- A document including your objective(s) and your hypotheses
+- A PDF document including your objective(s) and your hypotheses
 - A survey ready to be spread
 
 **Tips:** 

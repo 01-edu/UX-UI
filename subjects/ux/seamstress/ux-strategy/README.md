@@ -23,6 +23,10 @@ Select at least one tool for each phase, name it, and take into account the amou
 - Prototype
 - Test
 
+**Deliverables:**
+
+- A time frame, on PDF or on Figma, of the project, including the working days ahead, each phase of the process, the main tools you plan to use for each phase and the time you plan to spend for each tool.
+
 **Resource:** 
 
 - [A sum up of all the tools that have been practiced](https://www.figma.com/file/x0xfoz9TaEDiAfGPFqKJcs/RECAP-UX%2FUI-Program?node-id=0%3A1). Focus on the UX part!

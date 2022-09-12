@@ -1,9 +1,28 @@
-#### Audit instructions
+#### Audit 
 
-Make sure
+###### Is there a PDF document?
+###### Are there 4 pages?
 
-###### The document is a PDF
-###### There are 4 pages
-###### On each page, there is a template, an organism, a molecule and an atom 
+#### On page 1,
+###### Is there a template?
+###### Is there an organism?
+###### Is there a molecule?
+###### Is there an atom?
 
-[Example here](https://www.figma.com/file/fzqDkk8Zc8qJCiSMbKV0Ei/UI-II---Ex-1?node-id=0%3A1)
+#### On page 2,
+###### Is there a template?
+###### Is there an organism?
+###### Is there a molecule?
+###### Is there an atom?
+
+#### On page 3,
+###### Is there a template?
+###### Is there an organism?
+###### Is there a molecule?
+###### Is there an atom?
+
+#### On page 4,
+###### Is there a template?
+###### Is there an organism?
+###### Is there a molecule?
+###### Is there an atom?

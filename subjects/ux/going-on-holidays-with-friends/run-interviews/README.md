@@ -8,3 +8,7 @@ You can offer them a coffee to thank them, sometimes a smile suffices!
 At least 3 of your interviews must be with strangers. You'd be surprised how people are happy to help and looooove talking about themselves. 
 
 Then, write down the script on a written document, and give elements of context regarding each interview (place, time, name, etc.)
+
+**Deliverables:** 
+
+- A PDF document with the scripts from all the 6 interviews.

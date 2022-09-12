@@ -8,9 +8,9 @@ Focus on the 1st journey. Prepare a test protocol with your research goals (what
 
 **Deliverables:** 
 
-- Test protocol
+- A PDF document with a Test protocol
 - Pictures of the ongoing tests
-- A document with 3 ideas to improve the prototype based on you users' feedbacks.
+- A PDF document with 3 ideas to improve the prototype based on you users' feedbacks.
 
 **Resources:** 
 

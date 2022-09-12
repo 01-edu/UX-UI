@@ -26,3 +26,8 @@ Features:
 - [User flow glossary](https://www.productplan.com/glossary/user-flow/)
 - [Site flows vs User Flows](https://uxmovement.com/wireframes/site-flows-vs-user-flows-when-to-use-which/)
 - [How to make a User Flow diagram](https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram)
+
+**Recommended tools:**
+
+- Figma
+- Whimsical

@@ -16,7 +16,7 @@ Use your components, call to actions and visuals to complete the wireframes.
 
 **Deliverables:** 
 
-- 5 high-fidelity screens
+- 5 high-fidelity screens from Figma
 
 **Resources:**
 

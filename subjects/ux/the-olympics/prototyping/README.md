@@ -16,8 +16,8 @@ Then, draw your mid-fidelity screens on Figma with simple shapes, in black and w
 
 **Deliverables:** 
 
-- Paper prototype
-- Wireframes (mid-fi) to upload on the platform
+- Picture of a paper prototype
+- A Figma file with the wireframes (mid-fi)
 
 **Resources:** 
 

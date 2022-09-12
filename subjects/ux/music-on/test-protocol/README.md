@@ -6,7 +6,7 @@ Prepare a protocol for usability testing.
 
 **Deliverable:** 
 
-- A test protocol
+- A PDF document with a test protocol
 
 **Tips:** Recommended steps
 

@@ -1,15 +1,10 @@
-#### Audit instructions
+#### Audit
 
-Make sure there is:
+###### Is there a PDF document?
+###### Does the moodboard include pictures?
+###### Does the moodboard include 2 to 3 main colors?
+###### Is there typography for a title?
+###### Is there typography for a description or subtitle?
+###### Is there typography for some content?
+###### Is there typography for a button?
 
-###### A PDF document
-###### Inside it, a moodboard that includes
-  ###### Pictures
-  ###### 2 to 3 main colors
-  ##### - Examples of typography applied to graphic elements
-    ##### - Title
-    ##### - Description or subtitle
-    ##### - Content
-    ##### - Button
-
-[Example of a Style Guide in UI](https://www.pinterest.pt/pin/454019206175050454/)

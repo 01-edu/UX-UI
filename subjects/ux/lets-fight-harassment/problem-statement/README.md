@@ -8,8 +8,7 @@ Then, define 3 KPIs (Key performance Indicators) that will help you measure the 
 
 **Deliverables:** 
 
-- 1 problem statement
-- 3 KPIs to measure the impact of the solution
+- A PDF document with one problem statement and 3 KPIs to measure the impact of the solution
 
 **Resources:** 
 
@@ -22,6 +21,10 @@ Then, define 3 KPIs (Key performance Indicators) that will help you measure the 
 - [A metrics-driven approach to evaluate success of UX design](https://uxdesign.cc/a-metrics-driven-approach-to-evaluate-success-of-ux-design-dd3bea098820?sk=acf1b1f7f0a7663d34d11906339b4698)
 - [A big list of UX KPIs and metrics](https://www.cxpartners.co.uk/our-thinking/big_list_of_ux_kpis_and_metrics/)
 - [How to use SMART goals to build your KPIs](https://www.grow.com/blog/how-to-use-smart-goals-to-build-your-kpis)
+- Exampels of KPIs (fake data! Not to be copied or used!): 
+    -  Harassment case report rates increase by 20% within 2 years
+    - Online harassment drops by 30% within 5 years
+    - 90% of the 15-18 year-olds knows a harassment witness response process within 2 years
 
 **Quote:** 
 

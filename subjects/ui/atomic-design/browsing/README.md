@@ -33,6 +33,7 @@ Among these 4 websites, make snapshots of these elements:
 - [Video tutorial on Figma](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
 - [Beginning graphic design](https://edu.gcfglobal.org/en/beginning-graphic-design/)
 - [Gareth graphic studio](https://www.youtube.com/c/GarethDavidStudio)
+- [Example here](https://www.figma.com/file/fzqDkk8Zc8qJCiSMbKV0Ei/UI-II---Ex-1?node-id=0%3A1)
 
 **Quote:** 
 

@@ -1,5 +1,5 @@
-#### Audit instructions
+#### Audit
 
-Make sure: 
-
-###### The chart is complete
+###### Is there a document?
+###### Is the chart duplicated? 
+###### Is the chart complete?
