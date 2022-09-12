@@ -16,3 +16,7 @@ Copy 10 elements from easyJet design system, including
 
 - You can use Avenir Book instead of easyJet’s font
 - Explore Noun Project to get icons
+
+**Resources:**
+
+-  [Atomic Design Methodology](https://atomicdesign.bradfrost.com/chapter-2/) 

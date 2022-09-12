@@ -1,11 +1,10 @@
-#### Audit instructions
+#### Audit
 
-Make sure:
-
-###### The scope is clear: What are we testing?
-###### There are either 5 names or a strategy to find users
-###### The objectives are clear: What are we proving?
-###### The metrics are clear to prove the test is efficient.
-###### There is a greeting introduction
-###### The instructions are clear
-###### There is a conclusion thanking the user
+###### Is there a PDF document? 
+###### Is the scope clear: What are we testing?
+###### Are there either 5 names or a strategy to find users to interview?
+###### Are the objectives clear: What are we proving?
+###### Are the metrics clear to prove the test is efficient?
+###### Is there a greeting introduction?
+###### Are the instructions clear?
+###### Is there a conclusion to thank the user?

@@ -15,3 +15,14 @@ Choose an app you find particularly accessible. Find at least 3 concrete example
 - [Accessibility testing — W3C Wik](https://www.w3.org/wiki/Accessibility_testing)i
 - [UX Myth: Accessibility is expensive and difficult](https://uxmyths.com/post/654091803/myth-5-accessibility-is-expensive-and-difficult)
 - [Salesforce UX - 7 tips every designer needs to know about accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
+
+**Criteria:**
+
+- Examples of measures
+    - Color contrast
+    - Highlighted or enlarged text when hovering
+    - Links color that is different from the body text's
+    - Breadcrumbs to indicate where you are in terms of navigation
+    - In forms, the title of the case should be above the text zone
+    - Error states
+    - etc.

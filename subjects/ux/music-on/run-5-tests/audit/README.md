@@ -1,7 +1,5 @@
-#### Audit instructions
+#### Audit
 
-Make sure
-
-###### There are pictures of the ongoing tests
-###### There are conclusions from each test
-###### There are 3 ideas to include in the next version of the prototype
+###### Are there pictures of the ongoing tests?
+###### Are there conclusions from each test?
+###### Are there 3 ideas to include in the next version of the prototype?

@@ -21,7 +21,7 @@ Failure is even a necessary step, but ideally it should happen before a product 
 **Instructions:** 
 
 - Read all the scripts very carefully
-- Extract at least 6 insights
+- Extract at least 6 insights and write them down on a PDF file
     - Insights must be either shared by several people or consistent with what other people have already experienced
     - For each insight, name who said it.
 - Definition of 'insight': A key learning from what you have seen, read or heard. 

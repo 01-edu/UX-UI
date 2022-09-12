@@ -14,3 +14,11 @@ Be careful! Feedback is helpful to provide information to the user, not just sho
 
 - [Why use micro-interactions in your design](https://hike.one/update/why-use-micro-animations-in-your-design)
 - [Micro-interactions: why, when,  and how to use them to boost the UX](https://uxdesign.cc/micro-interactions-why-when-and-how-to-use-them-to-boost-the-ux-17094b3baaa0)
+
+**Tips:** 
+
+- Feedback is the situation when the app specifically sends a piece of information to the user, like: 
+- Payment accepted
+- Refreshed feed
+- Information saved
+- etc.

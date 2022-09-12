@@ -1,8 +1,6 @@
-#### Audit instructions
+#### Audit
 
-Make sure:
-
-###### There is a starting screen
-###### There is an ending screen
-###### All the connections between screens work
-###### There are multistate buttons which change every time you click somewhere
+###### Is there a starting screen?
+###### Is there an ending screen?
+###### Do all the connections between screens work?
+###### Are there multistate buttons which change every time you click somewhere?

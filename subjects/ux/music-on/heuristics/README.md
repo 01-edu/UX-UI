@@ -17,7 +17,7 @@ Conduct a heuristic analysis on **one** of these websites:
 
 **Deliverables:** 
 
-- A completed chart and checklist
+- A duplicated and completed chhecklist on a sheet document (Google Sheets, Airtable, Excel, etc.)
 - [Tool : Heuristic evaluation checklist](https://drive.google.com/file/d/10KbfbNZA1oVS1sXbjjXLPPmdZ6nqVkdc/view)
 
 **Resources:** 

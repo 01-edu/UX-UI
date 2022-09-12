@@ -1,14 +1,12 @@
-#### Audit instructions
+#### Audit
 
-Make sure there is: 
-
-###### A script of the ideation workshop in which there is:
-    ###### The main objective
-    ###### An ice breaker
-    ###### The main steps of the ideation process
-    ###### Clear instructions
-    ###### A time schedule for each step
-    ###### A voting process to select the main idea
-###### A board with all the ideas (on paper or digitally on Miro or Figma)
-###### One main concept out of the ideation workshop
-###### A document with the key learnings the students learnt from this phase
+###### Is there a script of the ideation workshop?
+###### Is there the main objective?
+###### Is there an ice breaker?
+###### Are there the main steps of the ideation process?
+###### Are there clear instructions?
+###### Is there a time schedule for each step?
+###### Is there a voting process to select the main idea?
+###### Is there board with all the ideas (on paper or digitally on Miro or Figma)?
+###### Is there one main concept out of the ideation workshop?
+###### Is there a document with the key learnings the students learnt from this phase?

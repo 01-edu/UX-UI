@@ -1,9 +1,7 @@
-#### Audit instructions
+#### Audit
 
-Make sure: 
-
-###### There is a PDF document
-###### The document has a title
-###### The name of the website is included in the document
-###### All the pages of the website are included in the chart
-###### All the pages of the website are linked (there is no "loose" page)
+###### Is there a PDF document?
+###### Does the document have a title?
+###### Is the name of the website included in the document?
+###### Are all the pages of the website included in the chart?
+###### Are all the pages of the website linked (there is no "loose" page)?

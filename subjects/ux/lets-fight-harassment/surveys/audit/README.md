@@ -1,12 +1,11 @@
-#### Audit instructions
+#### Audit
 
-Make sure there is:
-
-###### The main purpose of the form
-###### 1 to 3 hypotheses
-###### A proper introduction that describes the interviewer and the purpose of this interview
-###### 3 to 5 main topics
-###### A few screening questions
-###### Closed-ended, unbiased questions, max 10
-###### A funnel process (>)
-###### A conclusion with the next steps and a thank you.
+###### Is there a PDF document? 
+###### Is there the main purpose of the form?
+###### Are there 1 to 3 hypotheses?
+###### Is there a proper introduction that describes the interviewer and the purpose of this interview?
+###### Are there 3 to 5 main topics?
+###### Are there a few screening questions?
+###### Are there closed-ended, unbiased questions, max 10?
+###### Is there a funnel process (>) ?
+###### Is there a conclusion with the next steps and a thank you message?

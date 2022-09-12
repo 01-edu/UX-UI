@@ -9,6 +9,10 @@ Download [this image](https://storage.googleapis.com/gd-wagtail-prod-assets/orig
 - A PDF document extracted from a Figma file with the image
 - On each screen, indicate the layers order with numbers. 1 being the background image, 2 the element right on top, etc.
 
+**Tips:**
+
+- 2 numbers can be switched as long as the layering of layers is respected 
+
 **Resources:** 
 
 - [Material Design Awards 2019](https://design.google/library/material-design-awards-2019/)

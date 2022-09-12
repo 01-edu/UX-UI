@@ -13,7 +13,6 @@ In this series of exercises, you’ll be asked to open your eyes and collect gra
 
 Open these 5 images on Figma and draw lines and grids every time you find aligned elements. 
 
-—> File on computer
 
 **Deliverables:** 
 
@@ -25,4 +24,5 @@ Open these 5 images on Figma and draw lines and grids every time you find aligne
 - [Video tutorial on Figma](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
 - [Beginning graphic design](https://edu.gcfglobal.org/en/beginning-graphic-design/)
 - [Gareth graphic studio](https://www.youtube.com/c/GarethDavidStudio)
+- [1st screen example](https://www.figma.com/file/KOzd8yZuJvGLmZLuXjBgDg/UI-III-Ex-1.1) 
 

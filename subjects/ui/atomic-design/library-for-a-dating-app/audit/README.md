@@ -1,14 +1,12 @@
-#### Audit instructions
+#### Audit
 
-Make sure there is: 
-
-###### A moodboard for a dating app with:
-    ###### Pictures
-    ###### Colors (2 to 3 main colors)
-    ###### Typography
-###### A library including:
-    ###### At least graphic design 20 elements
-    ###### At least one atom
-    ###### At least one molecule
-    ###### At least one organism
-    ###### At least 5 multistate elements
+###### Is there a PDF moodboard for a dating app?
+###### Are there pictures?
+###### Are there 2 to 3 main colors?
+###### Is there typography?
+###### Is there a PDF library?
+###### Are there at least graphic design 20 elements (including the ones below)?
+###### Is there at least one atom?
+###### Is there at least one molecule?
+###### Is there at least one organism?
+###### Is there at least 5 multistate elements?

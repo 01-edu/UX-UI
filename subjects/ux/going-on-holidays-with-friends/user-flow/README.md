@@ -7,7 +7,7 @@ You can include one, two, of the three main ideas from your ideation process, de
 
 **Deliverable:** 
 
-- A comprehensive user flow on a board (digital or physical)
+- A comprehensive user flow on a board (digital or on paper)
 
 **Resources:** 
 

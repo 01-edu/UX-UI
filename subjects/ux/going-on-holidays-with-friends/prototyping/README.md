@@ -10,8 +10,8 @@ Give another dimension to your user flow and turn your user flow into a paper pr
 
 **Deliverables:** 
 
-- Paper prototype
-- Wireframes (mid-fi) to upload on the platform
+- A paper prototype
+- Wireframes (mid-fi) to upload on the Figma
 
 **Tips:** Vocabulary 
 

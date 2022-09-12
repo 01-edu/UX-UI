@@ -12,7 +12,7 @@ Then, highlight the main pain points that need to be solved.
 
 **Deliverable:** 
 
-- Your persona's user journey
+- A PDF document with your persona's user journey
 
 **Resources:** 
 
@@ -23,6 +23,8 @@ Most articles you'll find will be about user journeys or customer journeys. Keep
 - [Journey Mapping: How to build it](https://www.lucidchart.com/blog/how-to-build-customer-journey-maps)
 - [Journey Mapping template](https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2017Q3/SEO-initiative-customer-journey-mapping/CustomerJourneyMap1.png)
 - [Journey Mapping example on Figma](https://www.figma.com/file/5tittjiznRCWTNR2xI5FIT/Untitled?node-id=0%3A1)
+- [Example](https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2017Q3/SEO-initiative-customer-journey-mapping/CustomerJourneyMap1.png)
+
 
 **Quotes:** 
 

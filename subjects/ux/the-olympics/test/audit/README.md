@@ -1,12 +1,10 @@
-#### Audit instructions
+#### Audit
 
-Make sure: 
-
-###### There is a test script
-###### The test script includes a greeting and onboarding paragraph
-###### The test script includes a scenario the user has to complete
-###### The test script includes a conclusion to wrap up the test and thank the user
-###### 5 people have tested the prototype
-###### There are pictures
-###### The student includes 5 iterations that need to be made for the next version
-###### There is a report with the student's main insights
+###### Is there a PDF document with the test script?
+###### Does the test script include a greeting and onboarding paragraph?
+###### Does the test script include a scenario the user has to complete?
+###### Does the test script include a conclusion to wrap up the test and thank the user?
+###### Have 5 people tested the prototype?
+###### Are there pictures?
+###### Is there a report with the students' main insights?
+###### Are there 5 iterations that need to be made for the next version?

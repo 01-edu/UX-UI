@@ -8,10 +8,9 @@ This exercise is to be made individually.
 
 **Deliverables:** 
 
-- A usability test script
+- A PDF document with the usability test script
 - Pictures of the ongoing tests
-- The list of the 5 main iterations that you'd like to do on the next version
-- A report on what you learnt
+- A PDF docuemnt with a report on what you learnt and a list of the 5 main iterations that you'd like to do on the next version
 
 **Resources:** 
 

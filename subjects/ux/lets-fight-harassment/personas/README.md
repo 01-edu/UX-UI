@@ -8,6 +8,10 @@ Your persona card should include common trends amongst the people you got data f
 
 Reminder: Your persona is fictional and should not have the exact name or picture as someone you interviewed, but remember a persona is here so you can make decisions as a designer. 
 
+**Deliverables:**
+
+- A PDF persona card extracted from a Figma file
+
 **Resources:** 
 
 - [Make your persona great again](https://uxdesign.cc/personas-e60c1c06ead1)

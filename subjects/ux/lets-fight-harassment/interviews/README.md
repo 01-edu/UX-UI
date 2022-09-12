@@ -9,8 +9,9 @@ After knowing more about trends and "What" people do thanks to surveys, the main
 
 **Deliverables:** 
 
-- 1 interview guide
-- 3 scripts or an affinity diagram from your interviews
+- A PDF document with an interview guide
+- A PDF document with 3 scripts 
+- An affinity diagram from your interviews (PDF or digital, on Miro or Figma for example)
 
 **Resources:** 
 

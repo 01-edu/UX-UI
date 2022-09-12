@@ -6,7 +6,7 @@ Based on the 3 user flows, design 3 series of wireframes.
 
 **Deliverables:**
 
-- Wireframes (6 to 12 screens per flow)
+- 3 series of wireframes (6 to 12 screens per flow) on Figma
 
 **Tips:** 
 

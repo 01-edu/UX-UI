@@ -16,7 +16,7 @@ And remember, you are not your user!
 
 **Deliverable:** 
 
-- An interview guide
+- A PDF document with an interview guide
 
 **Tips:** 
 Here are the recommended steps : 

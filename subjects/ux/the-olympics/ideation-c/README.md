@@ -14,9 +14,9 @@ Pay attention not to use the same ideation technique as in ex 2!
 
 **Deliverables:** 
 
-- Script
+- A PDF document with the ideation workshop script
 - Pictures of the ongoing workshop
-- Main concept out of the workshop
+- A PDF document that represents the main concept out of the workshop
 
 **Resources:**
 

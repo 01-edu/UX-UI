@@ -6,9 +6,9 @@ Run at least one of the Ideation techniques in the design process.
 
 **Deliverables:** 
 
-- Script of the ideation workshop
-- Completed tool : a board with all the ideas - on paper or digitally on Miro or Figma
-- Key learnings from this phase
+- A PDF document with the script of the tool context
+- Completed tool: a board with all the ideas - on paper or digitally on Miro or Figma
+- A PDF document with the key learnings from this phase
 
 **Tips:**
 

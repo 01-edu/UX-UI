@@ -8,7 +8,7 @@ You may use the How Might We exercise in pairs.
 
 **Deliverable:** 
 
-- A problem statement starting with a "How Might We"
+- A PDF document with a problem statement starting with a "How Might We"
 
 **Resources:** 
 

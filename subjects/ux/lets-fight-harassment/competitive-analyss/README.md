@@ -22,7 +22,7 @@ Compare these 10 organizations' main actions, channels, values, according to the
 
 **Deliverables :** 
 
-- A competitive report with an introduction that explains your main conclusions
+- A PDF document of a competitive report with an introduction that explains your main conclusions
 - A chart to show the competitive landscape, with 2 axes of your choice (digital, psychological, local, closeness to students, institutional, etc.)
 - A table to compare the organizations on 5 to 10 criteria
 

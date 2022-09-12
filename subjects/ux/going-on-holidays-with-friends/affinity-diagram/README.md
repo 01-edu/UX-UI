@@ -14,7 +14,7 @@ Open your written scripts and extract the relevant information.
 **Deliverables:** 
 
 - An Affinity Diagram (paper or on digital tools like Miro)
-- An Empathy Map
+- An Empathy Map (paper or on digital tools like Miro)
 
 **Resources:** 
 

@@ -1,8 +1,8 @@
-#### Audit instructions
+#### Audit 
 
-Make sure: 
-
-###### The user has a specific goal
-###### There is a starting point and an ending point ###### which is the goal of the user
-###### There is a series of actions organized in rectangles (actions) or diamond (choice)
-###### The actions are linked with arrows
+###### Is there a user flow (on paper or digital)?
+###### Does the user have a specific goal?
+###### Is there a starting point and an ending point? 
+###### Is the ending point the goal of the user?
+###### Is there a series of actions organized in rectangles (actions) or diamonds (choices)?
+###### Are the actions linked with arrows?

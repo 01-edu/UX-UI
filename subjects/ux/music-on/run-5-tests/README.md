@@ -7,8 +7,7 @@ Run the test on 5 people!
 **Deliverables:** 
 
 - Pictures of the ongoing test
-- Conclusions from each test
-- 3 major ideas to improve the prototype
+- A PDF document with the conclusions from each test and 3 major ideas to improve the prototype
 
 **Resources:** 
 
