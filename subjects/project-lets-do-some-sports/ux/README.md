@@ -23,6 +23,9 @@ The final presentation of your work will take place one week after the mid prese
 - You may consider building your UX and UI strategy before jumping in. Remember to question the initial brief with user research.
 - Beware all the steps of the design process: Empathy, Define, Problem Statement, Ideation, Prototype, Test.
 - You must interview or ask real people during the Empathy / User Research and Test phases.
+- Upload the documents on Github, in a zip folder named “ProjectTitle_Name_FirstName”, with all project deliverables as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”.  For example, the first deliverable can be named as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within all written documents.
+- Pay attention to the global aspect of the deliverables. They must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
 - In both phases, you must test your prototypes with at least 5 people.
 - Make a presentation as if you were showing your work to Yara. Make sure there are at least 5 people in the audience.
 - Prepare a feedback form to send the audience. The form must include at least the questions listed below.

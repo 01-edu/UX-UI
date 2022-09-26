@@ -1,5 +1,11 @@
 #### Audit
 
+###### Is there a zip folder?
+###### Is the zip folder labeled as “ProjectTitle_Name_FirstName”?
+###### Are there all the deliverables indicated in the instructions?
+###### Are the deliverables labeled as “Name_FirstName_DeliverableName_Date_VersionNumber”?
+###### Are the deliverables in the correct format?
+###### Are the documents clear, simple and easy to read?
 ###### Is there a paper prototype with 6 to 12 different screens?
 ###### Are there mid-fidelity wireframes on Figma?
 ###### Do the mid-fidelity wireframes match the paper prototype?

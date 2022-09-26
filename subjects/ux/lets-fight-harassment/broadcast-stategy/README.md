@@ -15,6 +15,10 @@ Even though a proper survey requires at least 100 answers, for this exercise we 
     - At least 2 different messages
     - A plan A, a plan B, a plan C
 - A document to express your main feedback after running your broadcast strategy: what worked best? have you encountered any difficulties? What were they? How did you overcome them?
+- Upload the documents on Github, in a zip folder named “ProjectTitle_Name_FirstName”, with all project deliverables as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”.  For example, the first deliverable can be named as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within all written documents.
+- Pay attention to the global aspect of the deliverables. They must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
+
 
 **Tips:**
 

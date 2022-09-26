@@ -6,12 +6,15 @@ Based on the moodboard you designed in Ex 1, create a design system with at leas
 
 **Deliverables:** 
 
-- A PDF document extracted from a Figma file with a library including
+- A Figma file with a library including:
     - At least graphic design 30 elements
     - At least 5 atoms
     - At least 5 molecules
     - At least 5 organisms
     - At least 10 multistate variations
+- Upload the Figma file on Github, labeled as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”. For example, it can be labeled as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within the file.
+- Pay attention to the global aspect of the file. It must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
 
 **Tips:** 
 

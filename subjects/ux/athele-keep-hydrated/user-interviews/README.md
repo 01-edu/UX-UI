@@ -29,6 +29,10 @@ Failure is even a necessary step, but ideally it should happen before a product 
 **Deliverables:** 
 
 - Create a PDF document and write at least 6 insights and the name of the person(s) who said it.
+- Upload the PDF document on Github, labeled as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”. For example, it can be labeled as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within the document.
+- Pay attention to the global aspect of the document. It must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
+
 
 **Tips:** 
 

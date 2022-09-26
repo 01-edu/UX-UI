@@ -15,6 +15,9 @@ Write a report with the conclusion you made out of this iteration loop.
 - Pictures of the new test
 - A report with your conclusions, your impressions and your key learnings from this iteration (PDF document out of Microsoft Word, Pages, Google Docs or any word-processing software)
 - Comparison between V1 and V2 of the prototype in the report
+- Upload the documents on Github, in a zip folder named “ProjectTitle_Name_FirstName”, with all project deliverables as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”.  For example, the first deliverable can be named as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within all written documents.
+- Pay attention to the global aspect of the deliverables. They must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
 
 **Tips:** 
 

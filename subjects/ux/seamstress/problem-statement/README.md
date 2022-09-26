@@ -10,6 +10,9 @@ Based on your research (Empathy & Define), define a problem statement to narrow 
     - One problem statement
     - 1 to 3 KPIs
     - Key learnings from this phase
+- Upload the PDF document on Github, labeled as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”. For example, it can be labeled as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within the document.
+- Pay attention to the global aspect of the document. It must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
 
 **Tips:**
 - KPIs: [check the SMART list](https://www.grow.com/blog/how-to-use-smart-goals-to-build-your-kpis)) 

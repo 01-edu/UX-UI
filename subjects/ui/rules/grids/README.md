@@ -16,8 +16,11 @@ Open these 5 images on Figma and draw lines and grids every time you find aligne
 
 **Deliverables:** 
 
-- A PDF document extracted from a Figma file
-- The file should include the screens with lines on top to show grids. One PDF page per screen or frame.
+- A Figma file including the screens with lines on top to show grids. One page per screen or frame.
+- Upload the Figma file on Github, labeled as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”. For example, it can be labeled as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within the file.
+- Pay attention to the global aspect of the file. It must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
+
 
 **Resources:** 
 
