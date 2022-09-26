@@ -6,7 +6,11 @@ Choose a website you find particularly accessible. Find at least 3 concrete exam
 
 **Deliverables:** 
 
-- A 3-page PDF document extracted from a Figma file with 3 different elements from a website (it can be from 3 different websites) that are accessible. The three measures must be different.
+- A 3-page Figma file with 3 different elements from a website (it can be from 3 different websites) that are accessible. The three measures must be different.
+- Upload the Figma file on Github, labeled as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”. For example, it can be labeled as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within the file.
+- Pay attention to the global aspect of the file. It must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
+
 
 **Resources:** 
 

@@ -1,6 +1,12 @@
 #### Audit 
 
-###### Is there a user flow (on paper or digital)?
+###### Is there a zip folder?
+###### Is the zip folder labeled as “ProjectTitle_Name_FirstName”?
+###### Are there all the deliverables indicated in the instructions?
+###### Are the deliverables labeled as “Name_FirstName_DeliverableName_Date_VersionNumber”?
+###### Are the deliverables in the correct format?
+###### Are the documents clear, simple and easy to read?
+###### Is there a user flow (picture of the paper version or digital)?
 ###### Does the user have a specific goal?
 ###### Is there a starting point and an ending point? 
 ###### Is the ending point the goal of the user?

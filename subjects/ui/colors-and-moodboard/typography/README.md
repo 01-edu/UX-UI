@@ -17,7 +17,11 @@ Go to these websites and detect the typographies used.
 
 **Deliverables:** 
 
-- A PDF document extracted from a Figma file showing all the typographies used in each website or app.
+- A Figma file showing all the typographies used in each website or app.
+- Upload the Figma file on Github, labeled as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”. For example, it can be labeled as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within the file.
+- Pay attention to the global aspect of the file. It must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
+
 
 **Tips:** 
 

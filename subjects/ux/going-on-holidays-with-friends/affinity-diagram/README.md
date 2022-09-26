@@ -13,8 +13,11 @@ Open your written scripts and extract the relevant information.
 
 **Deliverables:** 
 
-- An Affinity Diagram (paper or on digital tools like Miro)
-- An Empathy Map (paper or on digital tools like Miro)
+- An Affinity Diagram (pictures of the Affinity Diagram on paper or on digital tools like Miro)
+- An Empathy Map (pictures of the Empathy Map on paper or on digital tools like Miro)
+- Upload the documents on Github, in a zip folder named “ProjectTitle_Name_FirstName”, with all project deliverables as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”.  For example, the first deliverable can be named as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within all written documents.
+- Pay attention to the global aspect of the deliverables. They must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
 
 **Resources:** 
 

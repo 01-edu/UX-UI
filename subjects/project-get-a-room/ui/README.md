@@ -10,6 +10,9 @@ Show a tested high-fidelity prototype.
 
 - Test your prototypes with at least 5 people.
 - Make a presentation as if you were showing your work to your client. Make sure there are at least 5 people in the audience.
+- Upload the documents on Github, in a zip folder named “ProjectTitle_Name_FirstName”, with all project deliverables as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”.  For example, the first deliverable can be named as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within all written documents.
+- Pay attention to the global aspect of the deliverables. They must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
 - Prepare a feedback form to send the audience. The form must include at least the questions listed below.
 - In both presentations, you are presenting to Barbara and her team.
 - Timing: 10 minutes for the presentation and 5 minutes for Q&A.

@@ -12,6 +12,9 @@ After knowing more about trends and "What" people do thanks to surveys, the main
 - A PDF document with an interview guide
 - A PDF document with 3 scripts 
 - An affinity diagram from your interviews (PDF or digital, on Miro or Figma for example)
+- Upload the documents on Github, in a zip folder named “ProjectTitle_Name_FirstName”, with all project deliverables as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”.  For example, the first deliverable can be named as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within all written documents.
+- Pay attention to the global aspect of the deliverables. They must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
 
 **Resources:** 
 

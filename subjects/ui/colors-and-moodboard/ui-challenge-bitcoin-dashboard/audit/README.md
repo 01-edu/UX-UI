@@ -1,6 +1,9 @@
 #### Audit 
 
-###### Is there a Figma file?
+###### Is the deliverable labeled as “Name_FirstName_DeliverableName_Date_VersionNumber”?
+###### Is the deliverable in the correct format (Figma)?
+###### Is there a title within the document?
+###### Is the document clear, simple and easy to read?
 ###### Does the designed screen match the image?
 ###### Do all layers have a name and belong to a group of graphic elements?
     

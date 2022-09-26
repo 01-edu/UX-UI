@@ -26,6 +26,11 @@ Select at least one tool for each phase, name it, and take into account the amou
 **Deliverables:**
 
 - A time frame, on PDF or on Figma, of the project, including the working days ahead, each phase of the process, the main tools you plan to use for each phase and the time you plan to spend for each tool.
+- Upload the PDF or Figma document on Github, labeled as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”. For example, it can be labeled as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within the document.
+- Pay attention to the global aspect of the document. It must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
+
+
 
 **Resource:** 
 

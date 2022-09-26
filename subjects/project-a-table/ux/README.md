@@ -41,6 +41,9 @@ The final presentation of your work will take place 2 weeks after the mid presen
 - Prepare a feedback form to send the audience. The form must include at least the questions listed below.
 - Timing: 15 minutes for the presentation and 5 minutes for Q&A.
 - You may use the presentation audits to structure your presentations.
+- Upload the documents on Github, in a zip folder named “ProjectTitle_Name_FirstName”, with all project deliverables as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”.  For example, the first deliverable can be named as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within all written documents.
+- Pay attention to the global aspect of the deliverables. They must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
 - Have fun!
 
 **Tools:** 

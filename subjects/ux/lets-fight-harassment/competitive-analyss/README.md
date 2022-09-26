@@ -22,9 +22,13 @@ Compare these 10 organizations' main actions, channels, values, according to the
 
 **Deliverables :** 
 
-- A PDF document of a competitive report with an introduction that explains your main conclusions
-- A chart to show the competitive landscape, with 2 axes of your choice (digital, psychological, local, closeness to students, institutional, etc.)
-- A table to compare the organizations on 5 to 10 criteria
+- A competitive report with an introduction that explains your main conclusions (PDF)
+- A chart to show the competitive landscape, with 2 axes of your choice (digital, psychological, local, closeness to students, institutional, etc.) (PDF)
+- A table to compare the organizations on 5 to 10 criteria (PDF)
+- Upload the documents on Github, in a zip folder named “ProjectTitle_Name_FirstName”, with all project deliverables as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”.  For example, the first deliverable can be named as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within all written documents.
+- Pay attention to the global aspect of the deliverables. They must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
+
 
 Resources: 
 

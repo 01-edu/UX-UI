@@ -28,6 +28,9 @@ To do so:
 - A card sorting workshop script with the research goals (PDF document)
 - Pictures of the ongoing workshop
 - A document to show the new content organization (it can be a picture of the board with sticky notes or the digital version).
+- Upload the documents on Github, in a zip folder named “ProjectTitle_Name_FirstName”, with all project deliverables as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”.  For example, the first deliverable can be named as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within all written documents.
+- Pay attention to the global aspect of the deliverables. They must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
 
 **Resources:** 
 

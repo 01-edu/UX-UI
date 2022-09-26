@@ -48,6 +48,11 @@ Find 3 friends outside of the program and run a quick ideation session (20 minut
 - Pictures of the session
 - A board with all the ideas (on paper or digitally on Miro or Figma)
 - One main idea to solve the problem next to the board
+- Upload the documents on Github, in a zip folder named “ProjectTitle_Name_FirstName”, with all project deliverables as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”.  For example, the first deliverable can be named as “Doe_John_MidFiPrototype_05242024_V1”.
+- Add a title within all written documents.
+- Pay attention to the global aspect of the deliverables. They must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
+
+
 
 **Resources:**
 

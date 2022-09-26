@@ -10,8 +10,12 @@ Give another dimension to your user flow and turn your user flow into a paper pr
 
 **Deliverables:** 
 
-- A paper prototype
-- Wireframes (mid-fi) to upload on the Figma
+- Pictures of a paper prototype
+- Wireframes (mid-fi) to upload on the Figma file
+- Upload the documents on Github, in a zip folder named “ProjectTitle_Name_FirstName”, with all project deliverables as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”.  For example, the first deliverable can be named as “Doe_John_MidFiPrototype_05242024_V1”.
+
+
+
 
 **Tips:** Vocabulary 
 

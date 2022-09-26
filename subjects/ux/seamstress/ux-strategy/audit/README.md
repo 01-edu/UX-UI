@@ -1,5 +1,9 @@
 #### Audit
 
+###### Is the deliverable labeled as “Name_FirstName_DeliverableName_Date_VersionNumber”?
+###### Is the deliverable in the correct format (PDF or Figma)?
+###### Is there a title within the document?
+###### Is the document clear, simple and easy to read?
 ###### Is there a time frame?
 ###### In Empathy or User Research, is there at least one tool among the following list?
     - User interviews
