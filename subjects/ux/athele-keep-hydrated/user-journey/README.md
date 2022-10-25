@@ -1,17 +1,22 @@
-# UX I - Ex 4 - User Journey
+## User Journey
 
-**Instructions:** 
+### Instructions
 
-Based on your persona card, and the interview scripts, design Pierre’s user journey. 
+Based on your persona card, and the interview scripts, design Pierre’s user journey.
 
-**Deliverables:** 
+The journey must contain:
 
-- A Figma file with Pierre’s user journey.
+    - A timeline that show the journey of your persona step by step, before, during and after running a race divided into phases.
+    - Pierre’s actions must be written on the timeline and for each action, a thought must be written and for every thought a main emotion must be present.
+
 - Upload the Figma file on Github, labeled as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”. For example, it can be labeled as “Doe_John_MidFiPrototype_05242024_V1”.
 - Add a title within the file.
-- Pay attention to the global aspect of the file. It must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
 
-**Tips:** 
+### Deliverables
+
+- A Figma file with Pierre’s user journey.
+
+**Tips:**
 
 - You may use Figma.
 - Mix up some insights and details from the interview scripts to write a journey that is consistent with Pierre’s personality.
@@ -20,10 +25,11 @@ Based on your persona card, and the interview scripts, design Pierre’s user jo
 - Focus on each action and define Pierre’s thoughts and main emotion among the list.
 - Adapt the line to Pierre’s thoughts and emotions.
 - Define the opportunities to improve Pierre’s overall experience every time you see a pain point.
+- Pay attention to the global aspect of the document. It must be clear, simple and easy to read. You can get inspiration on [canva](https://www.canva.com/) but don’t overload your design with too much details!
 
-**Resources:** 
+**Resources:**
 
-Most articles you'll find will be about user journeys or customer journeys. Keep in mind that you can adapt this methodology to any persona with any kind of situation or process, even at school, outside the school, in the digital world, etc. 
+Most articles you'll find will be about user journeys or customer journeys. Keep in mind that you can adapt this methodology to any persona with any kind of situation or process, even at school, outside the school, in the digital world, etc.
 
 - [Tool: User Journey Mapping Template on Figma](https://www.figma.com/file/sXdUDoTXwItU7dyQYVkY1w/Tool---User-Journey-Map)
 - [A Lean UX Customer Journey Map](https://uxdesign.cc/proto-journey-a-lean-ux-customer-journey-map-30ea3a241edc)
@@ -32,7 +38,6 @@ Most articles you'll find will be about user journeys or customer journeys. Keep
 - [Journey Mapping : Template on Figma](https://www.figma.com/file/5tittjiznRCWTNR2xI5FIT/Untitled?node-id=0%3A1)
 - [Example](https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2017Q3/SEO-initiative-customer-journey-mapping/CustomerJourneyMap1.png)
 
-
-**Quote:** 
+**Quote:**
 
 'It’s about catching customers in the act, and providing highly relevant and highly contextual information’ Paul Maritz | CEO Pivotal

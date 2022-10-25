@@ -1,10 +1,10 @@
-# UX V - Ex 1 - Heuristics
+## Heuristics
 
-**Context:** 
+**Context:**
 
 A music label specialized in music from South America asks you to improve the user experience. This quest is about heuristics and content organization!
 
-**Instructions:** 
+### Instructions
 
 Conduct a heuristic analysis on **one** of these websites:
 
@@ -13,17 +13,21 @@ Conduct a heuristic analysis on **one** of these websites:
 - [Zoho Music](https://www.zohomusic.com/)
 - [Luaka Bop](https://www.luakabop.com/)
 - [Rimas Music](https://rimasmusic.com/)
-- More... as long as it is a South American music label ;-)
+- You can choose another one, as long as it is a South American music label.
 
-**Deliverables:** 
-
-- A duplicated and completed chhecklist on a sheet document (Google Sheets, Airtable, Excel, etc.)
-- [Tool : Heuristic evaluation checklist](https://drive.google.com/file/d/10KbfbNZA1oVS1sXbjjXLPPmdZ6nqVkdc/view)
 - Upload the document on Github, labeled as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”. For example, it can be labeled as “Doe_John_MidFiPrototype_05242024_V1”.
 - Add a title within the document.
-- Pay attention to the global aspect of the document. It must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
 
-**Resources:** 
+### Deliverables
+
+- A duplicated and completed checklist on a sheet document (Google Sheets, Airtable, Excel, etc.).
+- [Tool : Heuristic evaluation checklist](https://drive.google.com/file/d/10KbfbNZA1oVS1sXbjjXLPPmdZ6nqVkdc/view)
+
+**Tips:**
+
+- Pay attention to the global aspect of the document. It must be clear, simple and easy to read. You can get inspiration [canva](https://www.canva.com/) but don’t overload your design with too much details!
+
+**Resources:**
 
 - [3 ways good design makes you happy - TED talk by Don Norman](https://www.ted.com/talks/don_norman_3_ways_good_design_makes_you_happy)
 - [Introduction to heuristic evaluation: a beginner’s guide](https://uxdesign.cc/introduction-to-heuristic-evaluation-658705606518)
@@ -33,7 +37,6 @@ Conduct a heuristic analysis on **one** of these websites:
 - [Heuristic analysis in the design process](https://uxdesign.cc/heuristic-analysis-in-the-design-process-usability-inspection-methods-d200768eb38d)
 - [A new usability heuristic evaluation checklist](https://uxplanet.org/a-new-usability-heuristic-evaluation-checklist-259f588da308)
 
-**Quote:** 
+**Quote:**
 
 'If you think design is expensive, you should look at the cost of bad design’ Ralf Speth | Former CEO Jaguar Land Rover
-

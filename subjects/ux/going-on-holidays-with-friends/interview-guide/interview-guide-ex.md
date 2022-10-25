@@ -1,10 +1,10 @@
 **Interview Guide Example:**
 
-**Objective:** 
+**Objective:**
 
 Know more about what bugs mums the most when they book holidays for their family.
 
-**Hypotheses**: 
+**Hypotheses**:
 
 - The distribution of tasks is often uneven
 - Timing and logistics are the most sensitive topics
@@ -13,9 +13,9 @@ Know more about what bugs mums the most when they book holidays for their family
 
 **Introduction**
 
-Hello! My name is Jasmin and I am conducting user research about how mums organize a trip when they are going on holidays with their family. Hence I'd love to know more about your experience in that kind of situation. Can I have 15 minutes of your time for a chat? 
+Hello! My name is Jasmin and I am conducting user research about how mums organize a trip when they are going on holidays with their family. Hence I'd love to know more about your experience in that kind of situation. Can I have 15 minutes of your time for a chat?
 
-**Screening questions:** 
+**Screening questions:**
 
 - How old are you?
 - Where do you live?
@@ -44,8 +44,8 @@ Hello! My name is Jasmin and I am conducting user research about how mums organi
 
 **Conclusion**
 
-Thank you so much for your time! This is very helpful for our research, especially on knowing what to improve to ease holiday organization management. 
+Thank you so much for your time! This is very helpful for our research, especially on knowing what to improve to ease holiday organization management.
 
-Would you have anyone you know who you think is quite concerned about this topic? 
+Would you have anyone you know who you think is quite concerned about this topic?
 
 We/I will prepare a questionnaire for other kinds of information. Would you be kind enough to answer it when it's ready?
