@@ -1,8 +1,8 @@
-# UI I - Ex 5 - Typography
+## Typography
 
-**Instructions:** 
+### Instructions
 
-Go to these websites and detect the typographies used. 
+Go to these websites and detect the typographies used.
 
 - [https://unric.org/no](https://unric.org/no)
 - [https://www.strongbowcider.com/bug-exterminator-brisbane](https://www.strongbowcider.com/bug-exterminator-brisbane)
@@ -15,21 +15,23 @@ Go to these websites and detect the typographies used.
 - [https://www.tomorrowland.com/fr/festival/bienvenue](https://www.tomorrowland.com/fr/festival/bienvenue)
 - [https://artisanscanada.com/](https://artisanscanada.com/)
 
-**Deliverables:** 
+### Deliverables
 
 - A Figma file showing all the typographies used in each website or app.
+
+Don't forget to:
+
 - Upload the Figma file on Github, labeled as follows: “Name_FirstName_DeliverableName_Date_VersionNumber”. For example, it can be labeled as “Doe_John_MidFiPrototype_05242024_V1”.
 - Add a title within the file.
-- Pay attention to the global aspect of the file. It must be clear, simple and easy to read. You can get inspiration on canva.com but don’t overload your design with too much details!
 
-
-**Tips:** 
+**Tips:**
 
 - Mind the presentation!
 - Feel free to browse Google Chrome options to detect typography ;-)
 - [Google Fonts](https://fonts.google.com/) is another great friend to have by your side
+- Pay attention to the global aspect of the file. It must be clear, simple and easy to read. You can get inspiration [canva](https://www.canva.com/) but don’t overload your design with too much details!
 
-**Resources:** 
+**Resources:**
 
 - [What is Typography](https://www.renderforest.com/blog/what-is-typography)
 - [Why is Typography important?](https://careerfoundry.com/en/blog/ui-design/beginners-guide-to-typography/)

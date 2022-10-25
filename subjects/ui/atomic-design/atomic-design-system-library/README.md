@@ -1,21 +1,16 @@
-## UI Challenge - Timer
+## Atomic Design system library
 
 ### Instructions
 
-Create this image on Figma:
+Copy 10 elements from easyJet design system, including:
 
-![Timer](Timer.png)
-
-Please make sure you use:
-
-  - 2 half circles to draw the circle around the timer.
-  - Gradient to fill the main circle.
-  - Groups.
-  - Named layers.
+- atoms.
+- molecules.
+- organisms.
 
 **Deliverable:**
 
-- A Figma file.
+- A Figma file including 10 elements from easyJet design system .
 
 Don't forget to:
 
@@ -24,6 +19,10 @@ Don't forget to:
 
 **Tips:**
 
-- The font is RAJDANHI.
-- The frame is Android 360 x 640px.
+- You can use Avenir Book instead of easyJet’s font.
+- Explore Noun Project to get icons.
 - Pay attention to the global aspect of the file. It must be clear, simple and easy to read. You can get inspiration [canva](https://www.canva.com/) but don’t overload your design with too much details!
+
+**Resources:**
+
+- [Atomic Design Methodology](https://atomicdesign.bradfrost.com/chapter-2/)

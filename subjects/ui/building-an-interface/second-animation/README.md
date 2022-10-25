@@ -1,21 +1,12 @@
-## UI Challenge - Timer
+## second Animation
 
 ### Instructions
 
-Create this image on Figma:
-
-![Timer](Timer.png)
-
-Please make sure you use:
-
-  - 2 half circles to draw the circle around the timer.
-  - Gradient to fill the main circle.
-  - Groups.
-  - Named layers.
+Animate your 5 screens on Figma. Think about multistate!!
 
 **Deliverable:**
 
-- A Figma file.
+- An animated high-fidelity prototype on Figma.
 
 Don't forget to:
 
@@ -24,6 +15,12 @@ Don't forget to:
 
 **Tips:**
 
-- The font is RAJDANHI.
-- The frame is Android 360 x 640px.
 - Pay attention to the global aspect of the file. It must be clear, simple and easy to read. You can get inspiration [canva](https://www.canva.com/) but don’t overload your design with too much details!
+
+**Resources:**
+
+- [Efficiently Manage Your Designs - How Mockplus State Page Helps To View & Manage Multiple State](https://help.mockplus.com/p/372)
+
+**Quote:**
+
+"Speak human: Use the words your users use.’ Dan Saffer | Microinteractions.
